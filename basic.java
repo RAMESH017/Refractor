@@ -1,7 +1,9 @@
-public class basic {
-    public static void main(String[] args) {
-        System.out.println("Hello, VS Code testing!");
-        System.out.println("Git update successful!");
-        System.out.println("commit successful!");
+public class Dog {
+    public void bark() {
+        System.out.println("Woof!");
+    }
+
+    public void sit() {
+        System.out.println("Sitting");
     }
 }
