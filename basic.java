@@ -1,5 +1,5 @@
 public class Dog {
-    public void bark() {
+    public void barkBark() {  // renamed method
         System.out.println("Woof!");
     }
 
