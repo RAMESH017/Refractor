@@ -1,5 +1,6 @@
 public class basic {
     public static void main(String[] args) {
         System.out.println("Hello, VS Code testing!");
+        System.out.println("Git update successful!");
     }
 }
